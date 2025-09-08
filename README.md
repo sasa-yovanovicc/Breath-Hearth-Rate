@@ -2,8 +2,6 @@
 
 Real-time contactless vital signs monitoring application that uses camera for detecting heart rate and breathing rhythm through computer vision.
 
-![Breath & Heart Rate Monitor](docs/img/breath-hearth-rate.png)
-
 ## How it works
 
 The application uses **PPG (Photoplethysmography)** principle - contactless measurement of vital signs through analysis of skin color changes caused by blood flow. Specifically:
